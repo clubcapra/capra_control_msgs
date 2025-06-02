@@ -16,6 +16,7 @@ find_package(rosidl_default_generators REQUIRED)
 
 set(msg_files
   "msg/Flippers.msg"
+  "msg/Tracks.msg"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
