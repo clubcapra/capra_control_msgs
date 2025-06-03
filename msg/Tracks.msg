@@ -1,6 +1,6 @@
 # Tracks control message
 
-# Values here should go from -1 to 1
+# Values here are in m/s
 
 float32 left
 float32 right
