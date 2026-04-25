@@ -21,6 +21,8 @@ set(msg_files
   "msg/Tracks.msg"
   "msg/TracksStamped.msg"
   "msg/BoolStamped.msg"
+  "msg/Ovis.msg"
+  "msg/OvisStamped.msg"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
